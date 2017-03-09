@@ -1,0 +1,5 @@
+This java code will find the irreducible polynomials with a specific degree and specific modulus.
+Irreducible polynomials in a specific modulus are used in cryptography for purposes such as LFSRs.
+
+Execution instruction:
+	The makefile is included in the repository. 
